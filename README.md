@@ -16,18 +16,24 @@
 | Variable	    | Definition |
 | ----------- | ----------- |
 | ID	   | Unique ID. |
-| Gender	| Gender of the customer. |
-| Ever_Married	 | Marital status of the customer. |
-| Age	| Age of the customer.|
-| Graduated	| Is the customer a graduate?. |
-| Profession	| Profession of the customer. |
-| Work_Experience |	Work Experience in years. |
-| Spending_Score	| Spending score of the customer.|
-| Family_Size |	Number of family members for the customer (including the customer). |
-| Var_1	| Anonymised Category for the customer.| 
-| Segmentation	| (target) Customer Segment of the customer.| 
-  
-
+| Patient Age	|  |
+| Patient Sex	 | Marital status of the customer. |
+| Left-Fundus	| Age of the customer.|
+| Right-Fundus	| Is the customer a graduate?. |
+| Left-Diagnostic Keywords	| Profession of the customer. |
+| Right-Diagnostic Keywords |	Work Experience in years. |
+| N	| Normal |
+| D |	Diabetes|
+| G	| Glaucoma| 
+| C	| Cataract| 
+| A	| Age related Macular Degeneration| 
+| H	| Hypertension| 
+| M	| Pathological Myopia|   
+| O	| Other diseases/abnormalities| 
+| filepath	| Cataract|
+| labels	| Cataract|
+| target	| Cataract| 
+| filename	| Cataract| 
   
 ## 4.	Tools 
  These are the technologies and libraries that we will be using for this project:
