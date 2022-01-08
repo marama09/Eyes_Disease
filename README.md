@@ -12,7 +12,7 @@
 
 
 ## 3.	Dataset
-  The dataset is [Customer Segmentation](https://www.kaggle.com/juniorbueno/customer-k-means-hierarchical-grouping-dbscan) from Kaggle Website, it contains 8068 rows and 11 columns. For a better understanding of the database there is the description of a column below:
+  The dataset is [Eyes Disease](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k) from Kaggle Website, it contains 8068 rows and 11 columns. For a better understanding of the database there is the description of a column below:
 | Variable	    | Definition |
 | ----------- | ----------- |
 | ID	   | Unique ID. |
