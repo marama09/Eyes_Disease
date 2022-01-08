@@ -12,16 +12,16 @@
 
 
 ## 3.	Dataset
-  The dataset is [Eyes Disease](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k) from Kaggle Website, it contains 8068 rows and 11 columns. For a better understanding of the database there is the description of a column below:
+  The dataset is [Eyes Disease](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k) from Kaggle Website, it contains 6392 rows and 19 columns. For a better understanding of the database there is the description of a column below:
 | Variable	    | Definition |
 | ----------- | ----------- |
 | ID	   | Unique ID. |
-| Patient Age	|  |
-| Patient Sex	 | Marital status of the customer. |
-| Left-Fundus	| Age of the customer.|
-| Right-Fundus	| Is the customer a graduate?. |
-| Left-Diagnostic Keywords	| Profession of the customer. |
-| Right-Diagnostic Keywords |	Work Experience in years. |
+| Patient Age	| the Age of Patient  |
+| Patient Sex	 | the Sex of Patient  |
+| Left-Fundus	| The patient's left eye|
+| Right-Fundus	| IThe patient's right eye |
+| Left-Diagnostic Keywords	| Keywords diagnosis of the left eye |
+| Right-Diagnostic Keywords |	Keywords diagnosis of the right eye |
 | N	| Normal |
 | D |	Diabetes|
 | G	| Glaucoma| 
@@ -30,10 +30,10 @@
 | H	| Hypertension| 
 | M	| Pathological Myopia|   
 | O	| Other diseases/abnormalities| 
-| filepath	| Cataract|
-| labels	| Cataract|
-| target	| Cataract| 
-| filename	| Cataract| 
+| filepath	| file path of the picture|
+| labels	| disease classification|
+| target	| the target disease classification| 
+| filename	| name of the picture | 
   
 ## 4.	Tools 
  These are the technologies and libraries that we will be using for this project:
