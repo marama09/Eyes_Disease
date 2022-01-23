@@ -38,7 +38,7 @@
 ## 4.	Tools 
  These are the technologies and libraries that we will be using for this project:
 * Technologies: Python, Jupyter Notebook. 
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, plotly, Scikit-learn.
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn, plotly, keras and tensorflow.
   
 ### Communication
 Please feel free to let me know if you have any questions.
